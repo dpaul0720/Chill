@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Nick/AndroidStudioProjects/Netflix&amp;Chill/app/libs/json-simple-1.1.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5d6f9b6a9ddca2a28c0216cc44efb2e20d9c23b5">
+        <dex dex="/Users/Nick/AndroidStudioProjects/Netflix&amp;Chill/app/build/intermediates/pre-dexed/debug/json-simple-1.1.1-0c5dfb3a7abc9379baa8f93169281f8c4fb21f65.jar" />
+    </item>
+
+</items>
